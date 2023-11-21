@@ -36,7 +36,7 @@ from dateutil import *
 from datetime import date
 import requests
 import matplotlib.pyplot as plt
-from prophet import Prophet 
+#from prophet import Prophet 
 
 # Import required storage package from Google Cloud Storage
 from google.cloud import storage
