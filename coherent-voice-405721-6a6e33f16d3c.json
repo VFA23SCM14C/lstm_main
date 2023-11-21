@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "coherent-voice-405721",
+  "private_key_id": "6a6e33f16d3c39ee96772d175b0da4b7cf6b5318",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+4eu1RCYFI9cv\nzsnrw9l8f/1I4txTZpCPRh28pW5q3ACXjCfNxyMVCHALg332koZ5P6gpBZKinQl6\n1cffWR6GUerJXqJYFGR8Yi+xELVo2VDVLywTwVgqNFz79hDGroCb5hWaTdPfuE2r\nSTTf0d3p0gMMxV2EF8iIVWvGOL5Fwp5V05TPxOA7RW8EcTi0Vaq26YC2Rf+yND2f\nXoUu0KXgeFLaJoGSDGbmttXS6auizsRYEODoRfZkap8GJtEUfza3STRiWhXQH5Hm\nf18cQbi9CsOVlGQuYya8Tnl9Ppm/FbosdeCyS5OHze4dqpAXrMkBfoNT8cQO28e+\nNxJcc2vHAgMBAAECggEAB2bA2idO0W3e1v/jLMz2yWY4aX5BFyDHzoO5p8oYWnS2\nYdScPyqPYy46aKU2xKamJ9xpMPys1LkBwu1i0c0QVcVRCnGCGlKMGkCVDdNn3VgT\n03hVSAd8Bi2VRMB5TQ2QzLq4BWLVf3wTfZFEnMBz+jAw+xVKDNL+l7622O7z/cYU\nGd0Kaq5j+T6iql8eb33fpx/RzX8QFTygVfVMLcuRWsMnyhYC8LHR6MQ7T5vhjNcB\ncecdxo3sVh4DSLMktDvKPiyK4/pmIo/93WMDwaO+VrHBRHWdmw2Sf8e1qnPRw0iX\nkiSCEUBzZLjFmUMpczROqX0oJoU4hlEq5MIMa62vSQKBgQDm5Ko9XhG8tjX/IQJg\ny+62nFIwoFe4j5sGp7sz46vfHS9oh7eabixXfnPEPeQ8u+jPxPY+2B+kvJr1Hr3x\nJzld1maAxrgfT9p/nllG3lA0vXC8KYuDSrxOehBmUjuFhLjlQLPBrLGePgH+3VUV\nFU/N0F4zVP4WYpgq3iMQiCrbnwKBgQDTo3v0ZKxXBLjPCacCW+vMuyiOKSb8tSff\nplwp6UP9t6o+KiglemcGquvvxBThhemajgtE06bCFBs2czH/TaYsxA/G2PAktidP\nSvcEcpSmuhBnVuylyaA1FvyZPPZUkwvVb0BHPeWmhmAxd+ZkWx+xlmOpIkqYv57h\nPFRLqpl+2QKBgQCXXq/w/XvZYQdzVFuvw+Ki20bS1DvOJm925H3JHehupD6RY/BN\nkQ8G6ULSE9VOr86Ib9MUDjJomLFqI5ZYw+NLDqUypZTOClbvtYtH97VTbiK7aO0q\nzNM5C7M2sZCODx38RffS7/meCX7bbJU79jXUc1dehcjyOf8Sk4EfdHXMdwKBgBn+\nHS4x4xy43r3G0LUwdvBpGB0Fnt0wnpoQQ4d+N7SEhyslYFLiCp8+BMYozeu416z8\nvxOP7w4tC/6O/Vf+wGcFGW7xm+TWXlOVwGrSa8FiXrtiaKQf9EYw8YsceqB+gtiO\n1lUpm/fszwmkUS6IJodYEhtms8S43BmLoEq+xCVZAoGAbbTAOlVguEqh8Z1kdvdR\n2Qhx5IDUzLyK39aJF5JGmBVg+G5WNMBzv0x4z2HyHTCZg8PAa4jKtkz5G5m2UaQa\naTQqYtHR1Aj01t/vQKkdXRp795N7BcedScvMZtrVRgTmjcOUvYdaj39sEUrhdyPp\ntZ54DPJTQlizmIur1CEyiUY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lstm-service-405721-account@coherent-voice-405721.iam.gserviceaccount.com",
+  "client_id": "117285084101407815782",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lstm-service-405721-account%40coherent-voice-405721.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
