@@ -21,19 +21,14 @@ import time
 from flask_cors import CORS
 
 # Tensorflow (Keras & LSTM) related packages
-import tensorflow as tf
-from tensorflow.python.keras import Sequential
-from tensorflow.python.keras.layers import Input, Dense, LSTM, Dropout
-from tensorflow.python.keras.callbacks import EarlyStopping
-from sklearn.preprocessing import MinMaxScaler
 
 # Import required storage package from Google Cloud Storage
 from google.cloud import storage
 
 # Import required packages from fb-prophet
 
-# from prophet import Prophet
-from fbprophet import Prophet
+from prophet import Prophet
+# from fbprophet import Prophet
 from prophet.plot import plot_plotly
 import plotly.offline as py
 
