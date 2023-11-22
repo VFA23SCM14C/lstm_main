@@ -29,14 +29,14 @@ from tensorflow.python.keras.callbacks import EarlyStopping
 from sklearn.preprocessing import MinMaxScaler
 
 # Facebook Prophet packages
-#from werkzeug.http import is_resource_modified
-#import json
-#import dateutil.relativedelta
-#from dateutil import *
-#from datetime import date
-#import requests
-#import matplotlib.pyplot as plt 
-#from prophet import Prophet 
+from werkzeug.http import is_resource_modified
+import json
+import dateutil.relativedelta
+from dateutil import *
+from datetime import date
+import requests
+import matplotlib.pyplot as plt 
+from prophet import Prophet 
 
 # Import required storage package from Google Cloud Storage
 from google.cloud import storage
