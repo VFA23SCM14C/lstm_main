@@ -31,7 +31,9 @@ from sklearn.preprocessing import MinMaxScaler
 from google.cloud import storage
 
 # Import required packages from fb-prophet
-from prophet import Prophet
+
+# from prophet import Prophet
+from fbprophet import Prophet
 from prophet.plot import plot_plotly
 import plotly.offline as py
 
